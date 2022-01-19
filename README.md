@@ -1,4 +1,4 @@
-# sitidoctor-marketplace
+# marketplace
 
 ## Project setup
 ```

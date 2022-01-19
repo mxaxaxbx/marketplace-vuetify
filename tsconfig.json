@@ -32,8 +32,9 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/store/interfaces"  ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "experimentalDecorators": true,
 }
